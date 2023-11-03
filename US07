@@ -1,0 +1,24 @@
+US07 - Seguridad de datos médicos
+Como usuario, quiero que mis datos médicos estén seguros y protegidos de acuerdo con las regulaciones de privacidad.
+
+
+Escenario 01: Seguridad de datos médicos
+
+Dado que estoy compartiendo información médica sensible a través de HealthXPeru.
+Cuando utilizo la plataforma.
+Entonces debo recibir garantías de que mis datos están cifrados y protegidos de acuerdo con las regulaciones de privacidad de la información médica.
+
+
+Escenario 02: Acceso seguro a datos médicos
+
+Dado que estoy compartiendo información médica sensible a través de HealthXPeru.
+Cuando inicio sesión en la plataforma.
+Entonces debo verificar que mi conexión esté cifrada y segura (usando HTTPS).
+Y debo ser capaz de acceder a mis datos médicos después de autenticarme de manera segura.
+
+
+Escenario 03: Cumplimiento con regulaciones de privacidad
+
+Dado que estoy preocupado por la privacidad de mis datos médicos.
+Cuando utilizo HealthXPeru.
+Entonces debo recibir notificaciones y confirmaciones de que mis datos médicos se manejan de acuerdo con las regulaciones de privacidad, como HIPAA u otras leyes de protección de datos médicos aplicables en mi región.
