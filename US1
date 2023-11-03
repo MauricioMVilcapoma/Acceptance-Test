@@ -1,0 +1,27 @@
+US01 - Cita médica en línea
+Como usuario, quiero agendar citas médicas en línea para acceder fácilmente a la atención médica.
+
+Escenario 01: Programación de una cita en línea
+
+Dado que necesito una consulta médica.
+Cuando inicio sesión en HealthXPeru.
+Entonces debo ser capaz de buscar médicos disponibles en mi área.
+Y debo poder programar una cita en línea seleccionando una fecha y hora conveniente.
+
+
+Escenario 02: Confirmación de cita en línea
+
+Dado que necesito una consulta médica.
+Cuando inicio sesión en HealthXPeru.
+Entonces debo ser capaz de seleccionar un médico disponible en mi área.
+Y debo poder programar una cita en línea seleccionando una fecha y hora conveniente.
+Y después de programar la cita, debo recibir una confirmación por correo electrónico o mensaje de texto con los detalles de la cita, incluyendo la fecha, hora y nombre del médico.
+
+
+Escenario 03: Cancelación de cita en línea
+
+Dado que he programado una cita médica en línea.
+Cuando inicio sesión en HealthXPeru.
+Entonces debo ser capaz de ver mis citas programadas.
+Y debo poder cancelar una cita seleccionada.
+Y después de la cancelación, debo recibir una notificación de confirmación de la cancelación.
