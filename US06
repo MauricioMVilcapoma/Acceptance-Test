@@ -1,0 +1,24 @@
+US06 - Chatbot de salud
+Como usuario, quiero interactuar con un chatbot de salud para obtener respuestas a preguntas médicas comunes.
+
+
+Escenario 01: Interacción con el chatbot de salud
+
+Dado que tengo preguntas sobre mi salud.
+Cuando abro el chatbot de salud en HealthXPeru.
+Entonces debo ser capaz de hacer preguntas sobre síntomas, consejos de salud y condiciones médicas.
+Y debo recibir información útil y confiable como respuesta.
+
+
+Escenario 02: Interacción con el chatbot para diagnóstico básico
+
+Dado que tengo preguntas sobre mis síntomas.
+Cuando inicio una conversación con el chatbot de salud en HealthXPeru.
+Entonces debo ser capaz de proporcionar detalles sobre mis síntomas y recibir un diagnóstico básico o recomendaciones generales para mi situación.
+
+
+Escenario 03: Consulta de información médica general
+
+Dado que tengo interés en aprender sobre una condición médica específica.
+Cuando inicio una conversación con el chatbot de salud.
+Entonces debo ser capaz de hacer preguntas sobre esa condición y recibir información precisa y confiable.
