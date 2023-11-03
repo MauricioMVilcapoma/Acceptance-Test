@@ -1,0 +1,23 @@
+US04 - Recordatorios de medicamentos
+Como usuario, quiero recibir recordatorios de medicamentos para asegurarme de tomarlos según la prescripción.
+
+
+Escenario 01: Recordatorio de medicamentos
+
+Dado que estoy siguiendo un tratamiento médico que requiere tomar medicamentos a horas específicas.
+Cuando ingreso a HealthXPeru.
+Entonces debo ser capaz de configurar recordatorios para recibir notificaciones cuando sea hora de tomar una dosis.
+
+
+Escenario 02: Configuración de recordatorios personalizados
+
+Dado que estoy siguiendo un tratamiento médico que requiere tomar varios medicamentos en diferentes horarios.
+Cuando ingreso a HealthXPeru.
+Entonces debo ser capaz de configurar recordatorios personalizados para cada medicamento, estableciendo la hora y la frecuencia de las notificaciones.
+
+
+Escenario 03: Recepción de notificaciones de recordatorios
+
+Dado que he configurado recordatorios de medicamentos en HealthXPeru.
+Cuando llega la hora programada para tomar un medicamento.
+Entonces debo recibir una notificación visual o auditiva en la aplicación recordándome tomar la dosis correspondiente.
