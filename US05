@@ -1,0 +1,25 @@
+US05 - Evaluación de síntomas
+Como usuario, quiero usar una evaluación de síntomas en la aplicación para obtener consejos sobre mis síntomas.
+
+
+Escenario 01: Evaluación de síntomas
+
+Dado que estoy experimentando síntomas de salud.
+Cuando ingreso a HealthXPeru.
+Entonces debo ser capaz de utilizar la función de evaluación de síntomas para ingresar información sobre mis síntomas.
+Y debo recibir recomendaciones sobre los siguientes pasos a seguir.
+
+
+Escenario 02: Ingreso de síntomas y recomendaciones
+
+Dado que estoy experimentando síntomas de salud.
+Cuando ingreso a la función de evaluación de síntomas en HealthXPeru.
+Entonces debo ser capaz de ingresar información detallada sobre mis síntomas.
+Y debo recibir recomendaciones basadas en los síntomas ingresados, que podrían incluir consejos de autocuidado, sugerencias de consultar a un médico o acciones a seguir.
+
+
+Escenario 03: Registro de evaluaciones anteriores
+
+Dado que he utilizado la función de evaluación de síntomas en el pasado.
+Cuando inicio sesión en HealthXPeru.
+Entonces debo ser capaz de acceder a un registro de las evaluaciones anteriores que he realizado, lo que me permitirá hacer un seguimiento de la evolución de mis síntomas.
