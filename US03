@@ -1,0 +1,24 @@
+US03 - Historial médico digital
+Como usuario, quiero acceder a mi historial médico digital para llevar un registro de mis consultas pasadas.
+
+
+Escenario 01: Acceso al historial médico
+
+Dado que he tenido varias consultas médicas a lo largo del tiempo.
+Cuando inicio sesión en HealthXPeru.
+Entonces debo ser capaz de ver y actualizar mi historial médico digital.
+Y debo poder acceder a notas del médico, recetas y resultados de pruebas.
+
+
+Escenario 02: Actualización de notas del médico
+
+Dado que tengo un historial médico digital en HealthXPeru.
+Cuando tengo una nueva consulta médica.
+Entonces debo ser capaz de actualizar mi historial médico digital con las notas proporcionadas por el médico, incluyendo diagnósticos y recomendaciones.
+
+
+Escenario 03: Acceso a resultados de pruebas
+
+Dado que he tenido pruebas médicas realizadas.
+Cuando inicio sesión en HealthXPeru.
+Entonces debo ser capaz de acceder a los resultados de mis pruebas médicas anteriores, incluyendo análisis de laboratorio, radiografías y otros informes médicos.
