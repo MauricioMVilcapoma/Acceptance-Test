@@ -1,0 +1,26 @@
+US02 - Consulta médica en vivo
+Como usuario, quiero tener consultas médicas en línea para discutir mis síntomas y recibir orientación médica.
+
+
+Escenario 01: Programación de una cita en línea
+
+Dado que necesito una consulta médica.
+Cuando inicio sesión en HealthXPeru.
+Entonces debo ser capaz de buscar médicos disponibles en mi área.
+Y debo poder programar una cita en línea seleccionando una fecha y hora conveniente.
+
+
+Escenario 02: Inicio de la consulta médica en línea
+
+Dado que he programado una cita médica en línea.
+Cuando llega la hora de la cita programada.
+Entonces debo ser capaz de iniciar la consulta en línea con el médico seleccionado.
+Y debo poder ver y hablar con el médico a través de una videoconferencia o chat de texto.
+
+
+Escenario 03: Registro de la consulta médica en línea
+
+Dado que he tenido una consulta médica en línea.
+Cuando la consulta ha concluido.
+Entonces debo ser capaz de ver un resumen de la consulta, que incluye las recomendaciones del médico y cualquier receta o instrucciones médicas proporcionadas.
+
